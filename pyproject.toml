@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sports-prediction"
+version = "0.1.0"
+description = ""
+authors = ["miguelm7 <miguelmore100@gmail.com>"]
+readme = "README.md"
+packages = [{include = "sports_prediction"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
