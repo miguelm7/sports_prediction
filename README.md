@@ -3,7 +3,27 @@ https://rapidapi.com/collection/football-soccer-apis
 
 Odds:
 https://the-odds-api.com/
+https://the-odds-api.com/liveapi/guides/v4/
+https://github.com/the-odds-api
 
 
 Stats:
 https://www.api-football.com/pricing
+
+https://dashboard.api-football.com/
+
+API Docs:
+https://www.api-football.com/documentation#documentation-v239
+
+
+
+IDEAS:
+
+https://www.youtube.com/watch?v=0irmDBWLrco
+
+https://www.sciencedirect.com/science/article/pii/S1877050922007955
+https://www.kdnuggets.com/2023/01/python-machine-learning-predict-football-match-winners.html
+https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050922X00070/1-s2.0-S1877050922007955/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA0aCXVzLWVhc3QtMSJHMEUCIBZ1Gxrp2Opg3FhY46R87PfATVTGDQRXqYkX6w9Yb7VNAiEAp5hqLkoopU%2F341%2BC8%2FKgGIodJJkP4cI9GwfsgrzT2ucqsgUIJhAFGgwwNTkwMDM1NDY4NjUiDIUt9SuUIHUrW5dUciqPBfr0Lj%2BbVTmA%2Ba7CoxJSVlKsPJKKCJJhPOiCl079mrkNHC61WtIeS3kWm0J7GO3tktCCdn028sASatxrCaJM8l%2FVE8pvb2d%2FzRsyWYZ5L5LKlltNdLnTRhLK9qEOKr8hwGyKl3IOOolYj3OEFS9AojhI2Ehfn6PmLKt0nczEi0zuLN6oP%2B0Ed1jJyVcNzwQzVeajIQVXdoS%2FeZ%2BcwWcxT%2Fp26PVFuwOSc4OO0LZ0FZCRtI9jOV%2Brag0%2BhrZrMUF03BYV519k7%2BNuWOpfjr6qzMzvHakQ1Ys1ga6k3QI9cD4Cmk0HfUKSxBCp6h2f%2FB%2Fg1q2yh5TwFOzEFE4Tm2zxS1jbRHPgOujhdVjt0KmQR0wReL3%2FVCCU2Qg2xXq1YL25dOYe8U9A%2B2tt%2FE6H2NpymANRHZ%2By3aOkoDKv9EIbdH6%2BidzbSNnugs6jXTYH48agwaxxtQO5FcWWsZRu5JWQfPE8ZKnPuzWIqP2YXi1sWM%2F%2Be6QpyHrukGmwf9s0DS%2BmMz45KgaSbnrB%2FvD5fMEfCzpEIUEYG0LKmUoAHKsyfwmNfVG%2FoEKDLXmVvawrP1TylHnKEA9CeI%2BVztDxhG6YxlKq8tWKHqV%2FVbLpga%2BEG9RnYX%2BH4IRc38sdmav7ugNk20ruwWPH4sZjU%2BreTcSqyXKboxUwo6TvDEe2uFfIKc2I5tb%2Fkcsf3Ej0K6ubWL4XTMhFWxbhsd6CSxrezW9Z3f9TJnpef5mNgpW0tHAKMconCi3hpY%2B9gEob3kRhUYGos1IBi1Tk%2FuQc2jaDxH3homwUX%2FG8rjrvUcpDVahWkmSyDpvtS8ZAsCAmHdK1vHkX0aDAHxL4QT0%2F8N7gyaDVx9sl1GEYRbfrN833UyzlOwwwiJ2jqQY6sQFrGNwQz3f5GytE6SpUiv2r2o3SAfnvCgtBL%2FqMWHJsHgE19%2Fu3zut3tSMiQ%2BTpiMUOeEIUi8wRXr5MduEa8W4Ok%2F6fw2rx9pmMNmqfHxhN4viXTfuBUCn0Ihy8efE9F0rvvRRugaAiZh1w5vidKfJUXSxIqLcYYrhu35kOFigMaLqeKgZ9xeOHYi2ZwRH0loMZEzJQUpnM0XVzTA5lxTwjdVkqazo%2F4PfIi7XsLKp0R1M%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231013T060925Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4YDUPF2I%2F20231013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7eacb516eac627d0c2b55810d7823d727413aac0ce43f9c7fed4d4eed3603bc8&hash=be690e40a1a8f6e45ad700f3374f3693d8a16106c91d65ba6979e6f91d5f7c54&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877050922007955&tid=spdf-462dff09-85af-4c3c-bd73-56d4d60957f5&sid=574651345a2d0247f64b8ca1633826f9f3c6gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1f165c525a51595a0051&rr=815569e49f5d5e56&cc=es
+
+https://towardsdatascience.com/machine-learning-algorithms-for-football-prediction-using-statistics-from-brazilian-championship-51b7d4ea0bc8
+
