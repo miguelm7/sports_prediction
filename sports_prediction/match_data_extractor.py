@@ -72,6 +72,25 @@ for team_id in team_id_list:
     team_stats.append(parsed_stats)
 
 
+
+# partidos jornada actual
+# fixtures/rounds/{league_id}/current
+
+# odds jornada actual
+# odds/fixture/{fixture_id}
+
+# predicciones
+# predictions/{fixture_id}
+
+
+# logica:
+# buscar partidos de la jornada actual
+# buscar odds de los partidos
+# los odds ente 1.2 y 1.3
+# sacar prediccion
+
+
+
 print("END")
 
 
